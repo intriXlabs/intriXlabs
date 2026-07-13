@@ -2,8 +2,13 @@
 ![Banner](assets/banner.png)
 
 # Research & Projects:
-### aksChitraInitiality -
-![aci](assets/AksChitraInitiality.gif)
+
+### AksChitraSpecifics -
+<p align="center">
+  <img src="assets/AksChitraInitiality.gif" width="45%" />
+  <img src="assets/animeEyes.gif" width="53%" />
+</p>
+
 ---
 
 ### ANSI Rendering Experiments -
