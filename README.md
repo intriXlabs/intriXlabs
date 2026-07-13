@@ -1,12 +1,12 @@
 # INTRIXLABS
 ![Banner](assets/banner.png)
 
-# MyWorks:
+# Research & Projects:
 ### aksChitraInitiality -
 ![aci](assets/AksChitraInitiality.gif)
 ---
 
-### ansiiProjectPics -
+### ANSI Rendering Experiments -
 <p align="center">
   <img src="assets/animeeyes.png" width="32%" />
   <img src="assets/JuliaMorpher.png" width="32%" />
@@ -15,7 +15,7 @@
 
 ---
 
-### aksChitraPics -
+### AksChitra Features -
 <p align="center">
   <img src="assets/aks.png" width="32%" />
   <img src="assets/aks2.png" width="32%" />
@@ -24,16 +24,14 @@
 
 ---
 
-### softwares -
+### Utilities & Tools -
 <p align="center">
-  <img src="assets/product1.png" width="32%" />
-  <img src="assets/product2.png" width="32%" />
-  <img src="assets/product3.png" width="32%" />
-</p>
-<p align="center">
-  <img src="assets/product4.png" width="32%" />
-  <img src="assets/product5.png" width="32%" />
-  <img src="assets/product6.png" width="32%" />
+  <img src="assets/product1.png" width="16%" />
+  <img src="assets/product2.png" width="16%" />
+  <img src="assets/product3.png" width="16%" />
+  <img src="assets/product4.png" width="16%" />
+  <img src="assets/product5.png" width="16%" />
+  <img src="assets/product6.png" width="16%" />
 </p>
 
 # 💫 About Me:
@@ -55,6 +53,7 @@
 ![](https://streak-stats.demolab.com/?user=INTRIXLABS&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=INTRIXLABS&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
 ```bash
 $ philosophy
