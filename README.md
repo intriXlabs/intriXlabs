@@ -1,8 +1,40 @@
 # INTRIXLABS
 ![Banner](assets/banner.png)
 
-# AksChitra-Initiality
+# MyWorks:
+### aksChitraInitiality -
 ![aci](assets/AksChitraInitiality.gif)
+---
+
+### ansiiProjectPics -
+<p align="center">
+  <img src="assets/animeeyes.png" width="32%" />
+  <img src="assets/JuliaMorpher.png" width="32%" />
+  <img src="assets/painterUsingAnsii.png" width="32%" />
+</p>
+
+---
+
+### aksChitraPics -
+<p align="center">
+  <img src="assets/aks.png" width="32%" />
+  <img src="assets/aks2.png" width="32%" />
+  <img src="assets/aks3.png" width="32%" />
+</p>
+
+---
+
+### softwares -
+<p align="center">
+  <img src="assets/product1.png" width="32%" />
+  <img src="assets/product2.png" width="32%" />
+  <img src="assets/product3.png" width="32%" />
+</p>
+<p align="center">
+  <img src="assets/product4.png" width="32%" />
+  <img src="assets/product5.png" width="32%" />
+  <img src="assets/product6.png" width="32%" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>🎨 AksChitra – A C++ terminal graphics engine<br>🧠 Trace Network – Experimental semantic memory architecture<br>⚡ IntrixLabs – Open-source systems and graphics projects<br><br>👯 I’m looking to collaborate on:<br>Low-level programming, rendering engines, terminal graphics,<br>semantic architectures and open-source system software.<br><br>🤝 I’m looking for help with:<br>Building an open-source community around AksChitra<br>and improving cross-terminal compatibility.<br><br>🌱 I’m currently learning:<br>Rendering Algorithms • OpenGL ES • Distributed Systems<br>AI Architectures • Operating Systems<br><br>💬 Ask me about:<br>C++, Linux, Terminal Graphics, ANSI Escape Codes,<br>Rendering, Low-level Programming or AI ideas.<br><br>⚡ Fun fact:<br>I like understanding software from pixels to ideas.
