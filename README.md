@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 Reorder Sections
 Preview
 Markdown
