@@ -1,3 +1,4 @@
+# INTRIXLABS
 ![Banner](assets/banner.png)
 
 # AksChitra-Initiality
