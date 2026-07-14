@@ -1,7 +1,7 @@
 # INTRIXLABS
 ![Banner](assets/banner.png)
 
-# Research & Projects:
+# Research and Projects:
 
 ### AksChitraSpecifics -
 <p align="center">
