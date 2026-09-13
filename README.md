@@ -1,4 +1,8 @@
 # INTRIXLABS
+<p align="center">
+  <img src="assets/guide.gif" />
+</p>
+
 ![Banner](assets/banner.png)
 
 # Research and Projects:
